@@ -49,6 +49,7 @@ gem 'activeadmin', github: 'activeadmin'
 gem 'activeadmin-bootstrap', github: 'vanhuyz/activeadmin-bootstrap'
 gem 'devise'
 gem 'bootstrap-sass'
+gem "cancan"
 
 group :production do
   gem 'pg'           
