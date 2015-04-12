@@ -1,4 +1,7 @@
 Demo Bootstrap for ActiveAdmin
 ----------------------------
 
-https://protected-everglades-8675.herokuapp.com/admin/login
+Visit https://protected-everglades-8675.herokuapp.com/admin and log in using:
+
+* User: admin@example.com
+* Password: password
